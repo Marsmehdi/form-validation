@@ -1,0 +1,16 @@
+body{
+    background-color:rgba(32, 3, 56, 0.6) ;
+}
+.validation{
+    margin: 130px 677px;
+}
+.q{    margin-bottom: 14px;
+    background-color: rgba(32, 3, 56, 0.10 );
+    border:1px solid rebeccapurple ;
+}
+.btn{
+    margin-top: 7px;
+    width: 175px;
+    background-color: rgba(32, 3, 56, 0.10 );
+    border:1px solid rebeccapurple ;
+}
